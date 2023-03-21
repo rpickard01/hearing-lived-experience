@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://rpickard01.github.io/hearing-lived-experience/annotations/performing-the-archive-2019-reading-canvas-1-2019.json",
-            "label": {
-              "none": ["2019"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://rpickard01.github.io/hearing-lived-experience/annotations/performing-the-archive-2019-reading-canvas-1-context.json",
             "label": {
               "none": ["Context"]
