@@ -30,25 +30,25 @@ This introduction and edition of Daphne Marlatt’s readings related to _leaf le
 
 # Works Cited #
 
-Camlot, Jason. Phonopoetics: The Making of Early Literary Recordings. Stanford University Press, 2019.
+Camlot, Jason. _Phonopoetics: The Making of Early Literary Recordings_. Stanford University Press, 2019.
 
-Clement, Tanya. “The Ear and the Shunting Yard: Meaning Making as Resonance in Early Information Theory.” Information & Culture, University of Texas Press, vol. 49, no. 4, 2014, pp. 401-426.
+Clement, Tanya. “The Ear and the Shunting Yard: Meaning Making as Resonance in Early Information Theory.” _Information & Culture, University of Texas Press_, vol. 49, no. 4, 2014, pp. 401-426.
 
-Knutson, Susan L. Narrative in the Feminine: Daphne Marlatt and Nicole Brossard. Wilfrid 
+Knutson, Susan L. _Narrative in the Feminine: Daphne Marlatt and Nicole Brossard_. Wilfrid 
 Laurier University Press, Waterloo, 2000.
 
-Lacey, Kate, and Michele Hilmes. Feminist Media Histories. U of California Press, vol. 1, 
+Lacey, Kate, and Michele Hilmes. _Feminist Media Histories_. U of California Press, vol. 1, 
 no. 4, 2015.
 
 McArthur, Marit, et. al. “Beyond Poet Voice: Sampling the (Non-) Performance Styles of 100 
-American Poets.” Journal of Cultural Analytics, vol. 3, no. 1, 2008, pp. 1-72.
+American Poets.” _Journal of Cultural Analytics_, vol. 3, no. 1, 2008, pp. 1-72.
 
-MacDonald, Tanis. “In Her Element.” Canadian Literature, Pacific Affairs, University of British Columbia, Vancouver, no. 237, 2019, pp. 161-2.
+MacDonald, Tanis. “In Her Element.” _Canadian Literature_, Pacific Affairs, University of British Columbia, Vancouver, no. 237, 2019, pp. 161-2.
 
 Moss, Laura, and Gillian Jerome. “‘Beyond the Hungry Edge’: An Interview with Daphne 
-Marlatt.” Studies in Canadian Literature, vol. 41, no. 1, 2016, pp. 248-65.
+Marlatt.” _Studies in Canadian Literature_, vol. 41, no. 1, 2016, pp. 248-65.
 
 “Performing the Archive.” SoundBox Signals Season 1, Episode 2. Co-produced by Karis Shearer and Nour Sallam. Available online: https://soundbox.ok.ubc.ca/index.php/performing-the-archive/.
 
-Simpson, Leanne B. As We have Always Done: Indigenous Freedom Through Radical Resistance. U of Minnesota Press, 2017.
+Simpson, Leanne B. _As We have Always Done: Indigenous Freedom Through Radical Resistance_. U of Minnesota Press, 2017.
 
