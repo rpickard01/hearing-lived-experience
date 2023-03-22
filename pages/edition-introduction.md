@@ -1,4 +1,4 @@
-# Introduction #
+# Introduction 
 
 Sound is a moving medium. Through audio recordings and oral storytelling practices, sound is capable of transcending time and bringing elements of the audible past to the listening present. It is sound’s peculiar relationship with time that allows meanings and patterns of a moment in time long passed to be recognized in, applied to, and perhaps (re)created in the present. Voices carry memories, emotions, influences of the past and present, motivations for the future, and an unmistakable sense of the speaker’s presence, wherever they may be. Bringing sounds of the past to the present allows us to hear living moments, the sentiment, experiences, and thinking underpinning every pause and shifts in intonation, and the changes that have happened in between. With a recording of Canadian poet Daphne Marlatt reading her poetry alongside her voice from fifty years ago, this contribution seeks to demonstrate how Marlatt’s changes in voice indicate how sound carries experiences and audio recordings can allow their relevance to necessarily transcend time to continuously build meaning.
 
